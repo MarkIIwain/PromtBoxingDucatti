@@ -1,0 +1,58 @@
+# $LynxId: lynx.cfg,v 1.182 2009/06/24 00:01:08 tom Exp $
+# lynx.cfg file.
+# The default placement for this file is /usr/local/lib/lynx.cfg (Unix)
+#                                     or Lynx_Dir:lynx.cfg (VMS)
+#
+# $Format: "#PRCS LYNX_VERSION \"$ProjectVersion$\""$
+#PRCS LYNX_VERSION "2.8.7rel.1"
+#
+# $Format: "#PRCS LYNX_DATE \"$ProjectDate$\""$
+#PRCS LYNX_DATE "Sun, 05 Jul 2009 16:52:33 -0700"
+#
+# Definition pairs are of the form  VARIABLE:DEFINITION
+# NO spaces are allowed between the pair items.
+#
+#  If you do not have write access to /usr/local/lib you may change
+#  the default location of this file in the userdefs.h file and recompile,
+#  or specify its location on the command line with the "-cfg"
+#  command line option.
+#
+# Items may be commented out by putting a '#' as the FIRST char of the line
+# (Any line beginning with punctuation is ignored).  Leading blanks on each
+# line are ignored; trailing blanks may be significant depending on the option.
+
+# An HTML'ized description of all settings (based on comments in this file,
+# with alphabetical table of settings and with table of settings by category)
+# is available at http://lynx.isc.org/release/lynx2-8-5/lynx_help/cattoc.html
+#
+### The conversion is done via the scripts/cfg2html.pl script.
+### Several directives beginning with '.' are used for this purpose.
+
+#\Let me re-introduce my vision of html meta-tags. before that there was once a
+#\.html file first. no matter it belongs to what collection, or it either still
+#\live on the web. the point was to interact how to consider a page and to rate
+#\with certain ''votes''. it may seem familiar in some anime ideal of Iso word-
+#\pro time. the main idea was ''abuse'' the strati-fication. it was going like
+#\a scheme. those would get into some economic circle. but first do bookings.
+#
+#\the feel like it would be any thing-could-be-done just through the Synchroni
+#\ze, the must have tool is such browser provided account service, like fire
+#\fox bookmark. and it have to deal with editing the tag by desktop orso to ma
+#\-ke it work, i mean such system was said the brain-less pulled by strings.Or
+#\something only work on such terminal ''crack the mind''. it was such propaga
+#\-nda system tool you may found in a chill. 
+#
+#\then it goes, in another shape the meta-tags. i mean not the BGA patch you m
+#\-ay found on circuit board, which stand for some sorcerer-craft like manifes
+#\-ting Door@! open command. I would consider if it would deal with bunch of l
+#\-isted cluster hyperlinks. which was stepp behind to let the talk between if
+#\people get into feel something from static todo-list whether intrude& harmed.
+#\I knew it would not work. but it gave someone know it first to maintain for
+#\like a better use. I'm not blame the true tech, it doing nothing with worship
+#
+#\It was said could be some not conspicious way to manipulate the tag was avail
+#\-able, like "meme" which form tag of thorough delivered message but no fare
+#\gonna be signed like early day postal. actually still brain-less. for a bette
+#\-r to take, it was given people to calculate for reminder. what you need may
+#\just a couple of wrap-box-work to turn over and tic-tac-toe on the back.any
+#\way, that would not be humilating.
